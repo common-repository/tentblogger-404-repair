@@ -1,0 +1,5 @@
+#repair-container { width: 100%; }
+#repair-list td { padding: 1em 0.5em 1em 0.5em; }
+.options { margin: 1em 0 1em 0; }
+.repair-all-link { margin: 0.5em 0 0.5em 0; text-decoration: none; }
+.repair-all-link:hover { text-decoration: underline; }
